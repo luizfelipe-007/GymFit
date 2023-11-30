@@ -6,7 +6,7 @@
 
 header{
     width: 100%;
-    background-color: #555555;
+    background-color: #000000;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -16,7 +16,7 @@ header{
 .logo-imagem{
     width: 50px;
     height: 50px;
-    background-color: rgb(121, 0, 0);
+    background-color: rgb(255, 72, 0);
     border-radius: 25px;
 }
 .container-logo{
@@ -25,7 +25,7 @@ header{
 }
 .logo-texto{
     margin-left: 20px;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 72, 0);
 }
 .menu li{
     display: inline-block;
@@ -34,7 +34,7 @@ header{
 .menu a{
     font-size: 20px;
     text-decoration: none;
-    color: rgb(121, 0, 0);
+    color: rgb(255, 72, 0);
     text-transform: uppercase;
     padding: 10px 20px;
 }
