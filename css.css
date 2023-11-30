@@ -39,5 +39,5 @@ header{
     padding: 10px 20px;
 }
 .menu li a:hover{
-    background-color: rgba(100, 100, 100 0.8);
+    background-color: rgba(0, 0, 0, 0.8);
 }
